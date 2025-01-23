@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <div>
         <a href={url} target="_blank">
-          <img src={thunderLogo} className="logo" alt="Reflame logo" />
+          <img src={thunderLogo} className="logo" alt="Thunder logo" />
         </a>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
